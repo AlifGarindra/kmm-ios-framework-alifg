@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'KMM-ios-framework-alifg'
+  spec.name         = 'KMMIOSFrameworkAlifg'
   spec.version      = '1.0.2'
   spec.summary      = 'testing framework from cocoapod'
   spec.homepage     = 'https://github.com/AlifGarindra'
@@ -12,7 +12,6 @@ spec.swift_version = '5.0'
 spec.dependency 'KMMSharedAlifG','1.0.2'
 
   spec.source_files  = '*'
-
 
 
 
