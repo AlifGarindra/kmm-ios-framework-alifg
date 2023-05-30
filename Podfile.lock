@@ -1,0 +1,16 @@
+PODS:
+  - KMMSharedAlifG (1.0.2)
+
+DEPENDENCIES:
+  - KMMSharedAlifG (= 1.0.2)
+
+SPEC REPOS:
+  trunk:
+    - KMMSharedAlifG
+
+SPEC CHECKSUMS:
+  KMMSharedAlifG: 922f8b3ff9e52506e52dfa14b4392f9ac202311e
+
+PODFILE CHECKSUM: 86915dceeded9839da16ae2f954bab0ca286fd29
+
+COCOAPODS: 1.12.1
