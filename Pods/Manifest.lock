@@ -1,16 +1,20 @@
 PODS:
   - KMMSharedAlifG (1.0.2)
+  - SwiftLint (0.52.2)
 
 DEPENDENCIES:
   - KMMSharedAlifG (= 1.0.2)
+  - SwiftLint
 
 SPEC REPOS:
   trunk:
     - KMMSharedAlifG
+    - SwiftLint
 
 SPEC CHECKSUMS:
   KMMSharedAlifG: 922f8b3ff9e52506e52dfa14b4392f9ac202311e
+  SwiftLint: 1ac76dac888ca05cb0cf24d0c85887ec1209961d
 
-PODFILE CHECKSUM: 86915dceeded9839da16ae2f954bab0ca286fd29
+PODFILE CHECKSUM: f68d3917b62957a4ffd68308c204a9eb6df632ea
 
 COCOAPODS: 1.12.1

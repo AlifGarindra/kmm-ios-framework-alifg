@@ -7,6 +7,8 @@ target 'ios-framework' do
 
   # Pods for ios-framework
 pod 'KMMSharedAlifG','1.0.2'
+    pod 'SwiftLint'
+
   target 'ios-frameworkTests' do
     # Pods for testing
   end
