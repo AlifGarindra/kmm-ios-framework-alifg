@@ -14,11 +14,11 @@
 		8E78258D2A248DC600FD567E /* ios_frameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E78258C2A248DC600FD567E /* ios_frameworkTests.swift */; };
 		8E78258E2A248DC600FD567E /* ios_framework.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E7825802A248DC600FD567E /* ios_framework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8E7825982A248F1200FD567E /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 8E7825972A248F1200FD567E /* Podfile */; };
-		8E7825A02A24A7CA00FD567E /* BreedScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E78259F2A24A7CA00FD567E /* BreedScreen.swift */; };
-		8E7825A42A24A83700FD567E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7825A12A24A83700FD567E /* AppDelegate.swift */; };
-		8E7825A52A24A83700FD567E /* CombineAdapters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7825A22A24A83700FD567E /* CombineAdapters.swift */; };
-		8E7825A62A24A83700FD567E /* Koin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7825A32A24A83700FD567E /* Koin.swift */; };
 		8EB3919D2A25E9AF00A453BD /* KMMIOSFrameworkAlifg.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 8EB3919C2A25E9AF00A453BD /* KMMIOSFrameworkAlifg.podspec */; };
+		8EB391A22A25F89D00A453BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB3919E2A25F89D00A453BD /* AppDelegate.swift */; };
+		8EB391A32A25F89D00A453BD /* CombineAdapters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB3919F2A25F89D00A453BD /* CombineAdapters.swift */; };
+		8EB391A42A25F89D00A453BD /* BreedScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB391A02A25F89D00A453BD /* BreedScreen.swift */; };
+		8EB391A52A25F89D00A453BD /* Koin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB391A12A25F89D00A453BD /* Koin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,11 +42,11 @@
 		8E7825872A248DC600FD567E /* ios-frameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-frameworkTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E78258C2A248DC600FD567E /* ios_frameworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_frameworkTests.swift; sourceTree = "<group>"; };
 		8E7825972A248F1200FD567E /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		8E78259F2A24A7CA00FD567E /* BreedScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedScreen.swift; sourceTree = "<group>"; };
-		8E7825A12A24A83700FD567E /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8E7825A22A24A83700FD567E /* CombineAdapters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CombineAdapters.swift; sourceTree = "<group>"; };
-		8E7825A32A24A83700FD567E /* Koin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Koin.swift; sourceTree = "<group>"; };
 		8EB3919C2A25E9AF00A453BD /* KMMIOSFrameworkAlifg.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KMMIOSFrameworkAlifg.podspec; sourceTree = "<group>"; };
+		8EB3919E2A25F89D00A453BD /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8EB3919F2A25F89D00A453BD /* CombineAdapters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CombineAdapters.swift; sourceTree = "<group>"; };
+		8EB391A02A25F89D00A453BD /* BreedScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BreedScreen.swift; sourceTree = "<group>"; };
+		8EB391A12A25F89D00A453BD /* Koin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Koin.swift; sourceTree = "<group>"; };
 		913B1C96A1C53CEB912E507F /* Pods-ios-framework-ios-frameworkTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ios-framework-ios-frameworkTests.release.xcconfig"; path = "Target Support Files/Pods-ios-framework-ios-frameworkTests/Pods-ios-framework-ios-frameworkTests.release.xcconfig"; sourceTree = "<group>"; };
 		93AC118F78D92403EE30EDE5 /* Pods-ios-framework-ios-frameworkTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ios-framework-ios-frameworkTests.debug.xcconfig"; path = "Target Support Files/Pods-ios-framework-ios-frameworkTests/Pods-ios-framework-ios-frameworkTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,13 +116,13 @@
 		8E78257F2A248DC600FD567E /* ios-framework */ = {
 			isa = PBXGroup;
 			children = (
+				8EB3919E2A25F89D00A453BD /* AppDelegate.swift */,
+				8EB391A02A25F89D00A453BD /* BreedScreen.swift */,
+				8EB3919F2A25F89D00A453BD /* CombineAdapters.swift */,
+				8EB391A12A25F89D00A453BD /* Koin.swift */,
 				8EB3919C2A25E9AF00A453BD /* KMMIOSFrameworkAlifg.podspec */,
-				8E7825A12A24A83700FD567E /* AppDelegate.swift */,
-				8E7825A22A24A83700FD567E /* CombineAdapters.swift */,
-				8E7825A32A24A83700FD567E /* Koin.swift */,
 				8E7825802A248DC600FD567E /* ios_framework.h */,
 				8E7825812A248DC600FD567E /* ios_framework.docc */,
-				8E78259F2A24A7CA00FD567E /* BreedScreen.swift */,
 			);
 			path = "ios-framework";
 			sourceTree = "<group>";
@@ -313,10 +313,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E7825A42A24A83700FD567E /* AppDelegate.swift in Sources */,
-				8E7825A62A24A83700FD567E /* Koin.swift in Sources */,
-				8E7825A52A24A83700FD567E /* CombineAdapters.swift in Sources */,
-				8E7825A02A24A7CA00FD567E /* BreedScreen.swift in Sources */,
+				8EB391A32A25F89D00A453BD /* CombineAdapters.swift in Sources */,
+				8EB391A52A25F89D00A453BD /* Koin.swift in Sources */,
+				8EB391A22A25F89D00A453BD /* AppDelegate.swift in Sources */,
+				8EB391A42A25F89D00A453BD /* BreedScreen.swift in Sources */,
 				8E7825822A248DC600FD567E /* ios_framework.docc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
